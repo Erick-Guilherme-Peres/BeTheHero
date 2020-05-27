@@ -1,12 +1,12 @@
 <h1 align="center"> Be The Hero </h1>
-<h4 align="left">  🚀 Projeto desenvolvido durante a Semana OmniStack 11.0 </h4>
+<h4 align="left"> Projeto desenvolvido durante a Semana OmniStack 11.0 </h4>
 
-## 💻 Project
+## Project
 
 Be The Hero was a project created by the creators of Omnistack 11 Week. It was created to connect people willing to help NGOs with specific projects or causes.
 
 
-## :rocket: Technologies
+## Technologies
 
 This project was developed with the following technologies:
 - [Npm](https://www.npmjs.com/) 
@@ -15,11 +15,7 @@ This project was developed with the following technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 🔖 Layout
-
-Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
-
-## :information_source: How To Use
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
 
@@ -49,7 +45,7 @@ $ yarn dev
 $ yarn test
 ```
 
-## 🤔 How to contribute
+## How to contribute
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
@@ -58,7 +54,7 @@ $ yarn test
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
